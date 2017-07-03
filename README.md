@@ -3,6 +3,7 @@ a REST-API and console-based cryptocurrency trading bot boilerplate and framewor
 -
 Written by Joel De Gan, 2017
 
+https://www.sitepoint.com/build-cryptocurrency-auto-trader-bot-php/
 
 Bowhead (a type of whale) is the codename for a boilerplate within Laravel for building 
 Cryptocurrency and Forex automated systems.
